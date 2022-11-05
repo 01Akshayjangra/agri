@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agri/static/css/main.b65b06fa.css",
+    "main.js": "/agri/static/js/main.8f9df82d.js",
+    "static/js/787.4be454d0.chunk.js": "/agri/static/js/787.4be454d0.chunk.js",
+    "index.html": "/agri/index.html",
+    "main.b65b06fa.css.map": "/agri/static/css/main.b65b06fa.css.map",
+    "main.8f9df82d.js.map": "/agri/static/js/main.8f9df82d.js.map",
+    "787.4be454d0.chunk.js.map": "/agri/static/js/787.4be454d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b65b06fa.css",
+    "static/js/main.8f9df82d.js"
+  ]
+}
